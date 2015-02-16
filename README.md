@@ -9,3 +9,5 @@ leave a message in issues to contact me.
 UTSL
 
 UTMEL = Use the Master Equation Luke.
+
+Stay away from people who can never give you positive feedback or feedforward.
